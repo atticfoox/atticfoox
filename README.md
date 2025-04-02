@@ -1,5 +1,3 @@
+<div align="center">
 
-
-<div align=“center”>
-
-![](https://komarev.com/ghpvc/?username=atticfoox&label=visitors&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=Atticfoox&label=visitors&color=blue&style=flat)
